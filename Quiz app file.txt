@@ -1,0 +1,13 @@
+All details of our adroid app is mention here,
+Including file,demo video
+steps to run the file:
+
+Download the android stdio.
+Download the file from given link
+and import the file using android stdio
+and run successfully
+
+https://drive.google.com/drive/folders/1Fb5K-yANleHyVwAFjB9JDPYxx2mL_xtj?usp=sharing
+
+
+for more detail you can contact me on: id4ankit@gmail.com,6238309093
